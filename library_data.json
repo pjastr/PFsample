@@ -1,0 +1,26 @@
+{
+  "name": "Central Library",
+  "location": "City Center",
+  "creation_date": "2025-02-27T23:25:02.782082",
+  "books": {
+    "9780261103344": {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "isbn": "9780261103344",
+      "publication_year": 1937,
+      "genre": "FANTASY",
+      "available": true
+    }
+  },
+  "users": {
+    "U123": {
+      "id": "U123",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "STUDENT",
+      "registration_date": "2025-02-27T23:25:02.782082",
+      "active": true,
+      "borrowed_books_count": 0
+    }
+  }
+}
